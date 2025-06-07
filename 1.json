@@ -7,12 +7,12 @@
             "birthday": 1255392000000,
             "_id": "6513bdf07b42ae000164eda4"
         },
-        "id": "6513bdf07b42ae000164eda4_9223370289124055295_tr",
+        "id": "6513bdf07b42ae000164eda4_9223370287828788648_tr",
         "feel": 3,
-        "calorie": 185,
-        "duration": 1166,
-        "startTime": 1747729223650,
-        "endTime": 1747730720512,
+        "calorie": 139,
+        "duration": 1178,
+        "startTime": 1749024809110,
+        "endTime": 1749025987159,
         "type": "training",
         "subtype": "swimming",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE7WZsWocQRBEc33FoljBzHTvzowzfYBAuXFwhjMcWMZ4T2Aw+nfv6hw46JdsjYJL+uCK2urpedv3+W6a/myfabq/rM+n1/V8P32avp2+r+eHW/nr+XRdn8+/ni4/Xq/v39b531fXy8t5vZ5efu7V4v9VH39f1ltxq709HBGxSKRGIvW4SI9EcmglH/eSvYQ6OS+h0l4/ruWxVkmx1lY/rpVBC3wVxVcCrbAn3uuHtQx8mcVaW/2wVglP0/abDbSaoAW+HPJyIa8Cec051trqh7VyAy0HLRe04pmRZ+jDWejDDM9wgbwWIS/UAl+L4CtBXhV8VcFXqqAF56sK5yvB7G3Qh03owxRekFt7wvnqwvkiXx3mYRfmYYJ52KEPu9KH8TMsaY4JYKuPfoYlxb72+nBfwBtF4Q3UAl9Z8QXPsEBe5QPyAt4oCm+kmA+LQV6m5AW+PObDvT7cF/BGUXiD+tA7aPXhM6rM8OYwC+8OlBfwRlF4A+7KArxRFN4ABigL5LUoeYFWhbyqkhdpQV5VyQv6sEFeTcmLtMBXU3zFLFo6zPmuzHnSivlwr4+eh5biPtzrR7V6/JpiOcbDvT5cClwpmxSYhgbbDRO2G2QLlhsmLDd6PHcNWMMk1oh3AAasYRJrgBawhkmsEZ9jc+hCF87WAlIQlx+Pi5oQSMMk0oDpNMeTcK8P1wLSMIk0oDOANEwgjR5f/gagYQJokFSDAd+EAR9f/QaYYQJmoBQcrQ+gDOtgqwu24rA8xWHt9cF3icNOw4WdBrkCxnCFMeKR67DRcGGj0WPEcEAMVxCDpOJxsddHP0BADJcQIz5YDn+fuPL3CVwkbvFw3+uj2x22GS5sM+gQwzLDhWUGSc0Q1nw8LHqAsMpwYZUB3OTAFy7wBUlVmBd1+CuJA174eLxwWGO4tMaAedGgBZsyL+JXEgfAcAkw4pWkd4ir3+K6+/IXj9oClZYhAAA=",
-            "averageHeartRate": 103.0,
-            "maxHeartRate": 144,
+            "heartRates": "H4sIAAAAAAAAE7WcsYodORBFc3/Fw7GDVktVKjnzByw4Nw5m4S0MrJfFbwyGxf/ulu1gg1OJrhxMUgNzqK7S1e2Sej68ut3+u35ut9fPj/dPXx7317e3t7+e/n7c3/wM/3l/enm8v3/+4/mfLy8/fhvj169enj/dHy9Pn/6d0VL/F3339fnxM3jFvr1ZgIxKECeIr0M4E05FyIUxJ2LOZUw5GnIGcobAceKclThXdJ3TkdOR09c5teBzO7DbZniddDKJS3QINaoHtzY3ndJ1Z7KIsEwzvPvpceMVpfOqMYlzknoPe/xKleVUqFPDOtWGajfDyyTD9VQb1mmG13PCp1eNczIhp4aaVw01Yoa3k7D3ZnidhHtsdey9GV4n4cqtzjn59vVUuyHpCq+TuE6dc+rb96canFMoOaGDqIPX0xDWU0ZijRiKlickrtPY3nuNfURTfARrRGPn2gTrWhruhI19RFN8BKtRY/vaFP+a1OnE9TTD6yTOqXKdqrKeEhLXSfERJ/ce+4im+IgTV25rXKcm1CkjoUbM8DoJd8JmXCcT6sRvAM25Tq70Hu5PzVHLZ3h7TlwnyUdwR3SuU1fqxGoUXKdQtJw1Inh/CmV/Skhcp9juYdvgOo3tdbID6zTD6yTUCGMfYdI8Ap+eHcGk2L2ejH2EKT4ieXrngaQrvJ3EOZ3bZyzG8wiT5hGosFa596rSewmJe68qvYeOxRrn1BTd45yMe8+E3mu45xr7CFN8BCus8TzCpHkEryeeR5g0j+Cc2EeY4iMSEvsIU3xEY4XleYQp8wieulk0JF3hZRJPEm3wehrKemKFZR9hio8w7Ag/MKcZXidhnZx9hCs+IiOhlrviIwy13NlHuOIjkjqd6PdmeDsJ33NdmUckJJ5HuDKPyEhcJ2UewRrhFXVvhjdrhDfUvRlezwl9hPO5hivnGhmJe8+E3kuenuF8b4Y374TuXCcX6sRvNd5Zy7vyrsF14nMNV841Ttby4JxCyImnbs4+whUfwVM353MNV841MhLnNJScUPc6zyO6Mo/ISJjTDC+TCmpEL9h7M7xOwi7vhXMqSk7Y5Z3nEV2ZRxzBJPR7M7ydhFo+w+sk7gieR3RlHpGR0Ed0xUccqBGdzzW6cq6R1InnEV2ZRxT0e53vR3TlfkSynnge0ZV5RKIRPI/oyjwiUVieR3RlHnGij+id69SFOmUkzkmZRyS7RnCdYvvZZw/WvRB0LyHxPKIr8wj2e8HziFDmEeyNgucRocwjEhLfjwjlfgSv3CicU/kNOWHvhXI/gldu8DwilHkEr9zgc41QzjUK7oTBPiIUH5HkxD4iFB+RkBpqxAyvdwTeAoqG870ZXidxTuwjQvERfCoUzrrnyrs7957zevLtdxLDuU6u1IlzYh8Rko9g3eP7EaHcj0i0nH1EKD4iUSO+HxHK/Qj2sME+IhQfkagR37MM5Z4lq9E4MKcZXl9P2BHjwJxmeJnE54SjokbM8DKJz2pGx/U0w8skx5U7WCOGohEZieukvGvwucbgO1RDukOF62nw2eeQzj7xjXoM7r2hnAGgsxxjNCSNtnknLNfrC6F+xDerxPU3uzGr27r28ddWR3FmXfHNe3w5zoNZV3ydldTrPBPWKbCSr/BqYdYV389K8qpKXvwt2dGSvJqSF39rerSkD5vShwnLkj40pQ+TtWyWsGx/b1iiG6boRsLypA9d6cPse9okL1fySlg9yav/Bt2IpA9D6cOMlfRhKH3I3wofI9GNoehGxqoJq66z+N3n+psjYQ2BxfvXJXzImvHdeZXEbxTJb7D2lpLkVYS8kp4vid8okt9I8kr8RpH8RvKF/JnU61TqxZ7t8sPMqsK+nP2PgcRvFMVvpCzWwxnfz2LdmPF1Fu9fxZL1ZcL6Sv5/QrFIWCGw8D35kknW+RlfZyXam/iNoviN5D9DlMRvlF9+49XH703sfptqRwAA",
+            "averageHeartRate": 130.0,
+            "maxHeartRate": 162,
             "wearableDevices": [
                 {
-                    "macAddress": "662C97CD-8036-458F-B81F-4AB179407E3C",
+                    "macAddress": "9966BDED-9F92-4BE0-A04D-6DEC1BA032D1",
                     "name": "Apple Watch SE 2",
                     "deviceType": "Apple Watch"
                 }
